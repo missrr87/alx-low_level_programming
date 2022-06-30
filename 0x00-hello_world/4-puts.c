@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 
 /* 
@@ -8,7 +7,7 @@
  * programmminf 
  */
 
-init main ()
+int main ()
 {
 	puts("\"Programming is like building a multilingual puzzle");
 
