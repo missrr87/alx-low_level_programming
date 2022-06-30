@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <unisted.h>
+#include <unistd.h>
 /**
  * main - prints a given sentence
  * Return: Always 1 (Success)
