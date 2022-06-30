@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * Main - Entry point
+ * main - Entry point
+ *
+ * Description: 'my first print sentence'
  *
  * Return: Always 0 (Success)
  */
