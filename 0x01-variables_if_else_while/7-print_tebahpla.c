@@ -12,5 +12,5 @@ for (za = 'z'; za >= 'a'; za--)
 putchar(za);
 }
 putchar(10);
-return(0);
+return (0);
 }
