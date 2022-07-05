@@ -11,5 +11,5 @@ int x;
 if (n < 0)
 n = -n;
 x = n % 10;
-return (x);
+_putchar(x);
 }
