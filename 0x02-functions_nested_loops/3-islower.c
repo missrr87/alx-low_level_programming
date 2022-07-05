@@ -1,4 +1,4 @@
-#include "min.h"
+#include "main.h"
 /**
  * _islower - checks if a letter is lowercase or not
  *
