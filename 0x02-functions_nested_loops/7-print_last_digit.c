@@ -12,7 +12,7 @@ if (n < 0)
 n = -n;
 l = n % 10;
 if (l < 0)
-x = -l;
+l = -l;
 _putchar('0' + l);
 return (l);
 }
