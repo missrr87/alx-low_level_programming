@@ -11,13 +11,12 @@ for (n = 0; n < 10; n++)
 {
 for (m = 0; m < 10; m++)
 {
-_putchar(',');
-_putchar(' ');
 p = n * m;
 if (p < 10)
 {
-_putchar(' ');
 _putchar(p + '0');
+_putchar(',');
+_putchar(' ');
 }
 else
 {
