@@ -14,7 +14,7 @@ for (m = 0; m < 10; m++)
 p = n * m;
 if (p == 0)
 {
-_putchar(P + '0');
+_putchar(p + '0');
 }
 if (p < 10)
 {
