@@ -14,9 +14,9 @@ for (m = 0; m < 10; m++)
 p = n * m;
 if (p == 0)
 {
-_putchar(p);
+_putchar(p + '0');
 }
-if (p < 10)
+if (p != 0 && p < 10)
 {
 _putchar(',');
 _putchar(' ');
