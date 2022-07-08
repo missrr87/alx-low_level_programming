@@ -9,7 +9,7 @@ int t;
 int b;
 if (n <= 0)
 {
-_putchar(''\n);
+_putchar('\n');
 }
 else
 {
