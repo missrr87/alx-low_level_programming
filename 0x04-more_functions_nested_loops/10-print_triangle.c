@@ -19,7 +19,7 @@ for (b = a; b < size; b++)
 {
 _putchar(' ');
 }
-for (b = a; b <= 1; b++)
+for (b = 1; b <= a; b++)
 {
 _putchar('#');
 }
